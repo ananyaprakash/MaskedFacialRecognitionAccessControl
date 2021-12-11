@@ -1,0 +1,37 @@
+ /*.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+body{
+  background-color: #292724;
+  background-image: linear-gradient(#db6ac3)
+} 
+.app__container{
+  margin-top: 10px;
+  width: 500px;
+
+  height: 500px;
+  border: 1px solid #25221b;
+
+}
+.app__input{
+  margin-top: 30px;
+}
+.button{
+  border: 50;
+  width: 80px;
+  height: 300 px;
+  padding: 60 20px;
+  margin: 20px;
+  border-radius: 50px;
+  border-color: white;
+  background-color: rgb(202,156,24);
+  cursor: pointer;
+  font-weight: bolder;
+  color: #fff;
+
+
+}
+ */
