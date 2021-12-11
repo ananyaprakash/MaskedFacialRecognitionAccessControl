@@ -1,5 +1,7 @@
 # Masked Facial Recognition - Final Year Project 
 
+An end-to-end access control system using masked facial recognition. The fornt-end web interface is developed using ReactJS and the backend is in Flask. The recognition engine is in Python.
+
 ## Available Scripts
 
 You can run the ReactJS app in the following manner: 
